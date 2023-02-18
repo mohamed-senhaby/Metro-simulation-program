@@ -1,17 +1,3 @@
-/***********************************************************************
-Matr.-Nr:   3154171
-Nachname/Surname:    Senhaby
-Vorname/Given name:    Mohamed
-Uni-Email:   mohamed.senhaby@stud.uni-due.de
-Studiengang/Course of studis:    Bachelor of Science/Computer Engineering, ISE, Vert. Software
-***********************************************************************/
-
-
-
-
-
-
-
 #include <iostream>
 #include <cstdlib>
 #include <string>
